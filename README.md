@@ -19,6 +19,7 @@ java -jar java-media-player-1.0.jar
 ## Built With
 
 * [JavaCV](https://github.com/bytedeco/javacv) - To interface with FFmpeg
+* [JavaFX](https://docs.oracle.com/javase/8/javafx/get-started-tutorial/jfx-overview.htm) - GUI library for Java
 * [Maven](https://maven.apache.org/) - Dependency Management
 
 ## Authors
